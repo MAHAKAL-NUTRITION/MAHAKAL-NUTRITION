@@ -29,3 +29,20 @@
       <img src=“product1.jpg” alt=“Product 1”>
       <h3>Product 1</h3>
       <p>Description of Product
+Product 1.</p>
+      <a href=“product1.html”>Learn More</a>
+    </div>
+    <div class=“product”>
+      <img src=“product2.jpg” alt=“Product 2”>
+      <h3>Product 2</h3>
+      <p>Description of Product 2.</p>
+      <a href=“product2.html”>Learn More</a>
+    </div>
+    <!-- Add more products here -->
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Nutritional Items Store. All rights reserved.</p>
+  </footer>
+</body>
+</html>
