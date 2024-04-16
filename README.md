@@ -25,11 +25,11 @@
 
   <section id=“creatine
 ”>
-    <h2>whey protien
+    <h2>Featured Product
 </h2>
-    <div class=“product”>
+    <div class=“wheyt”>
       <img src=“product1.jpg” alt=“Product 1”>
-      <h3>Product 1</h3>
+      <h3>creatine 1</h3>
       <p>Description of Product
 Product 1.</p>
       <a href=“product1.html”>Learn More</a>
