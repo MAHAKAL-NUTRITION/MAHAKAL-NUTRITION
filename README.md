@@ -23,7 +23,8 @@
     <a href=“products.html” class=“cta-button”>Shop Now</a>
   </section>
 
-  <section id=“featured-products”>
+  <section id=“creatine
+”>
     <h2>whey protien
 </h2>
     <div class=“product”>
@@ -33,7 +34,7 @@
 Product 1.</p>
       <a href=“product1.html”>Learn More</a>
     </div>
-    <div class=“product”>
+    <div class=“whey”>
       <img src=“product2.jpg” alt=“Product 2”>
       <h3>Product 2</h3>
       <p>Description of Product 2.</p>
