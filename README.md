@@ -1,5 +1,5 @@
-<nav class="navbar">
-    <div class="nav">
+<nav class="mahakal nutrition">
+    <div class="MN">
         <img src="img/dark-logo.png" class="brand-logo" alt="">
         <div class="nav-items">
             <div class="search">
