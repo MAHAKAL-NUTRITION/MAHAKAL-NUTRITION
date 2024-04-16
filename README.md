@@ -24,7 +24,8 @@
   </section>
 
   <section id=“featured-products”>
-    <h2>Featured Products</h2>
+    <h2>whey protien
+</h2>
     <div class=“product”>
       <img src=“product1.jpg” alt=“Product 1”>
       <h3>Product 1</h3>
